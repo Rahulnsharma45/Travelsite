@@ -1,0 +1,22 @@
+{
+  "name": "travelsite",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulnsharma45/Travelsite.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahulnsharma45/Travelsite/issues"
+  },
+  "homepage": "https://github.com/Rahulnsharma45/Travelsite#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  },
+}
